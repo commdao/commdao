@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @commdao
-- 👀 I’m interested in fighting games and italo disco
-- 🌱 I’m currently learning javascript and react
-- 💞️ I’m looking to collaborate on bad raps
-- 📫 How to reach me @commdao on Twitter
+- 👋 Hi, I’m Jon Dao
+- 🕹️ I play a lot of fighting games and get beat up online often
+- 🧠 I’m learning javascript and react to get my first dev job in 2022
+- 🎤 I also make a lot of bad raps to maintain my mental health
+- 📱 Come @ me on Twitter
 
 <!---
 commdao/commdao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
