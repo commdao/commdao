@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Jon Dao
-- 🕹️ I play a lot of fighting games and get beat up online often
-- 🧠 I’m learning javascript and react to get my first dev job in 2022
-- 🎤 I also make a lot of bad raps to maintain my mental health
-- 📱 Come @ me on Twitter
+- 🕹️ I love 3D fighting games
+- 🧠 I’m still trying to chip my way through JavaScript
 
 <!---
 commdao/commdao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
